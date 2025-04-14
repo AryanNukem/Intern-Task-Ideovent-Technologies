@@ -3,8 +3,6 @@ Ideovent Technologies
 
 Project Name:
 Task Mate - Advanced To-Do List Web App
-Submission Deadline:
-Before Sunday, 11:59 PM
 Technologies to be Used:
 - Frontend: ReactJS
 - Backend: Node.js (with MongoDB)
